@@ -11,7 +11,7 @@ ___
                   🔮𝙳𝙴𝙿𝙻𝙾𝚈 𝚃𝙾 𝙷𝙴𝚁𝙾𝙺𝚄🔮   
                        👉𝙱𝚄𝚃𝚃𝙾𝙽👈
 
-<p><a href="https://dashboard.heroku.com/new?template=https://github.com/malindunimsara/heroku-v2ray"> <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy to Heroku" /></a></p>
+<p><a href="https://dashboard.heroku.com/new?template=https://github.com/DA21S321D/heroku-v2ray"> <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy to Heroku" /></a></p>
 
 😒 ɪꜰ ꜱʜᴏᴡɪɴɢ ᴇʀʀᴏʀ ɪɴ ʜᴇʀᴏᴋᴜ, ʙᴇᴄᴀᴜꜱᴇ ᴍʏ ʀᴇᴘᴏ ʙᴀɴɴᴇᴅ ꜰʀᴏᴍ ʜᴇʀᴏᴋᴜ😡,
 
@@ -33,7 +33,7 @@ ___
 
 🏷️ʟɪɴᴋ ᴛᴇᴍᴘʟᴀᴛᴇ:  https://dashboard.heroku.com/new?template=https://github.com/<<𝙰𝙳𝙳 𝚈𝙾𝚄𝚁 𝙶𝙸𝚃𝙷𝚄𝙱 𝚄𝚂𝙴𝚁𝙽𝙰𝙼𝙴>>/Heroku-V2ray-VLESS
 
-<<𝙰𝙳𝙳 𝚈𝙾𝚄𝚁 𝙶𝙸𝚃𝙷𝚄𝙱 𝚄𝚂𝙴𝚁𝙽𝙰𝙼𝙴>> ᴛᴏ ʀᴇᴘʟᴀᴄᴇ ʏᴏᴜʀ ɢɪᴛʜᴜʙ ᴜꜱᴇʀɴᴀᴍᴇ ʟɪᴋᴇ ᴛʜᴀᴛ - malindunimsara
+<<𝙰𝙳𝙳 𝚈𝙾𝚄𝚁 𝙶𝙸𝚃𝙷𝚄𝙱 𝚄𝚂𝙴𝚁𝙽𝙰𝙼𝙴>> ᴛᴏ ʀᴇᴘʟᴀᴄᴇ ʏᴏᴜʀ ɢɪᴛʜᴜʙ ᴜꜱᴇʀɴᴀᴍᴇ ʟɪᴋᴇ ᴛʜᴀᴛ - DA21S321D
 
 ⚔️ᴀꜰᴛᴇʀ ᴄᴏᴍᴘʟᴇᴛᴇ ᴛʜɪꜱ ʟɪɴᴋ ꜰᴏʀᴍ, ʏᴏᴜ ᴄᴀɴ ᴜꜱᴇ ᴛʜᴇ ʟɪɴᴋ ᴛᴏ ᴅᴇᴘʟᴏʏ ɪɴ ʜᴇʀᴏᴋᴜ⚔️.
 
